@@ -8,8 +8,6 @@ venv_*/
 .idea/
 
 tmp_*
-data?
-data??
 scripts2
 
 model_cache
